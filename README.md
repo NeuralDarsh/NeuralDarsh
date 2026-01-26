@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hajimemashite! I'm Darshan (NeuralDarsh) 
 
-<!--
-**NeuralDarsh/NeuralDarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year B.Tech student in **AI & Machine Learning**. 
+My goal is to build a career and settle in Japan.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Language
+- 🤖 **Specialization:** Artificial Intelligence & Machine Learning
+- 🎌 **Language:** Learning Japanese (Current: N5)
+- 💻 **Certified:** IBM C++ Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 2026 Goals
+- [ ] Achieve JLPT N5 Certification
+- [ ] Build 5 AI-driven projects
+- [ ] Maintain a 100-day GitHub commit streak
