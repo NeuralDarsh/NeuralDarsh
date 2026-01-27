@@ -12,3 +12,5 @@ My goal is to build a career and settle in Japan.
 - [ ] Achieve JLPT N5 Certification
 - [ ] Build 5 AI-driven projects
 - [ ] Maintain a 100-day GitHub commit streak
+
+- [ ] "Day 2: Just created my first AI learning repository!"
