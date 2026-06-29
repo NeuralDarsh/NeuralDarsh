@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanbagale)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanbagale2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NeuralDarsh-181717?style=for-the-badge&logo=github)](https://github.com/NeuralDarsh)
 
 </div>
 
@@ -15,7 +16,7 @@
 
 I'm an **AI/ML Engineer** specializing in building production-ready intelligent systems — RAG pipelines, NLP applications, and computer vision solutions. Currently pursuing B.Tech in **Artificial Intelligence & Machine Learning** and actively building toward a career in the **Japanese tech industry**.
 
-My work sits at the intersection of **language, intelligence, and real-world utility** — whether it's helping people understand legal documents, bridging communication for the deaf community, or detecting AI-generated content at scale.
+My work sits at the intersection of **language, intelligence, and real-world utility** — whether it's bridging communication for the deaf community, detecting AI-generated content at scale, or building sentiment analysis tools for real business use.
 
 - 🔭 Currently building: LLM-powered pipelines, MLOps workflows & AWS-ready deployments
 - 🇯🇵 Japan-focused: JLPT N5 → targeting **N4 by December 2026**
@@ -57,8 +58,7 @@ My work sits at the intersection of **language, intelligence, and real-world uti
 
 ---
 
-## 🚀 Featured Projects
-
+## 🚀 Completed Projects
 
 ### 🟣 [Sign Language Translator Using AI](https://github.com/NeuralDarsh/Sign-Language-Translator-Using-AI) — Real-Time CV Pipeline
 > *TensorFlow/Keras · MediaPipe · OpenCV · Streamlit*
@@ -66,7 +66,7 @@ My work sits at the intersection of **language, intelligence, and real-world uti
 A real-time ASL recognition system trained on **87,000+ images across 29 classes**. Uses MediaPipe for hand landmark detection feeding into a CNN classifier — achieving low-latency, camera-feed-ready translation output.
 
 - Custom CNN architecture with fine-tuned MediaPipe hand keypoint input
-- 29-class ASL alphabet + common phrases
+- 29-class ASL alphabet coverage
 - Deployable as a local Streamlit web app
 
 ---
@@ -82,7 +82,6 @@ A web application that classifies whether text is human-written or AI-generated,
 
 ---
 
-
 ### 🔴 [SentiAnalyze Pro](https://github.com/NeuralDarsh/SentiAnalyze-Pro) — Sentiment Analysis Dashboard
 > *Python · Gradio · Excel*
 
@@ -94,11 +93,18 @@ A local-first, privacy-focused sentiment analysis tool with batch text processin
 
 ---
 
-## 📊 GitHub Stats
+## 🔨 Currently Building
+
+| Project | Stack | Description | Status |
+|---------|-------|-------------|--------|
+| **KotobaAI** | LangChain · ChromaDB · Groq · Streamlit | RAG-powered Japanese learning assistant with semantic document retrieval | 🔄 Active |
+| **LexBridge** | LangChain · RAG · Python | Legal document simplifier — makes dense contracts plain-language accessible | 🔄 Active |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-
-![NeuralDarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralDarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralDarsh&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -158,6 +164,5 @@ A local-first, privacy-focused sentiment analysis tool with batch text processin
 
 *「継続は力なり」— Persistence is power.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=NeuralDarsh&color=blueviolet&style=for-the-badge)
-
 </div>
+
