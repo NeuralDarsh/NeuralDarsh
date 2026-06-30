@@ -71,6 +71,18 @@ A real-time ASL recognition system trained on **87,000+ images across 29 classes
 
 ---
 
+🔵 **[LexBridge](https://github.com/NeuralDarsh/LexBridge) — RAG-Based Legal Document Simplifier**
+
+*LangChain · ChromaDB · Groq · Streamlit*
+
+A RAG-powered application that lets users upload legal documents and ask questions in plain English, simplifying dense legal jargon into clear, grounded answers with cited source excerpts.
+
+- Full RAG pipeline: chunking, embedding, vector retrieval, and LLM generation
+- ChromaDB vector store with sentence-transformer embeddings
+- Source-cited answers via Groq's LLaMA 3.1 for low-latency inference
+
+---
+
 ### 🟡 [AI Slop Detector](https://github.com/NeuralDarsh/AI-Slop-Detector) — AI Content Detection App
 > *HuggingFace RoBERTa · Flask · Python*
 
