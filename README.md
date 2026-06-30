@@ -110,7 +110,6 @@ A local-first, privacy-focused sentiment analysis tool with batch text processin
 | Project | Stack | Description | Status |
 |---------|-------|-------------|--------|
 | **KotobaAI** | LangChain · ChromaDB · Groq · Streamlit | RAG-powered Japanese learning assistant with semantic document retrieval | 🔄 Active |
-| **LexBridge** | LangChain · RAG · Python | Legal document simplifier — makes dense contracts plain-language accessible | 🔄 Active |
 
 ---
 
