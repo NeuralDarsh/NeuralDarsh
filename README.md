@@ -142,6 +142,7 @@ A local-first, privacy-focused sentiment analysis tool with batch text processin
 
 | Certification | Issuer | Status |
 |---------------|--------|--------|
+| IBM Python Programming | IBM | ✅ Completed |
 | IBM C++ Programming | IBM | ✅ Completed |
 | AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | 🔄 In Progress |
 | G検定 (AI for Business) | JDLA | 📅 Planned 2026 |
